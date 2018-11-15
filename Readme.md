@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[CustomColorizer.cs](./CS/CustomColorizerSample/CustomColorizer.cs) (VB: [CustomColorizer.vb](./VB/CustomColorizerSample/CustomColorizer.vb))**
+* [MainWindow.xaml](./CS/CustomColorizerSample/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/CustomColorizerSample/MainWindow.xaml))
+<!-- default file list end -->
 # How to implement the custom Tree Map Colorizer
 
 
